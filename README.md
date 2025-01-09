@@ -22,4 +22,4 @@ Employee attrition is a significant challenge for organizations, leading to high
 ### **Approach**  
 - Models like logistic regression, random forests, and neural networks will be used to predict attrition and support HR strategies.  
 
-Explore this ![case study](https://github.com/edaaydinea/DataScienceForBusiness/blob/main/1.%20Human%20Resources%20Data/Human_Resources_Department.ipynb) to see how data science can transform HR challenges into actionable solutions!  
+Explore this [case study](https://github.com/edaaydinea/DataScienceForBusiness/blob/main/1.%20Human%20Resources%20Data/Human_Resources_Department.ipynb) to see how data science can transform HR challenges into actionable solutions!  
