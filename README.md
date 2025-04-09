@@ -32,7 +32,7 @@ Explore this [case study](https://github.com/edaaydinea/DataScienceForBusiness/b
 
 Okay, let's generate a case study based on the provided notebook.
 
-## Case Study 1: Customer Segmentation for Enhanced Marketing Strategies
+## Case Study 2: Customer Segmentation for Enhanced Marketing Strategies
 
 ### **Overview**
 
