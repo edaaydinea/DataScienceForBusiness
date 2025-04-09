@@ -30,8 +30,6 @@ Employee attrition is a significant challenge for organizations, leading to high
 
 Explore this [case study](https://github.com/edaaydinea/DataScienceForBusiness/blob/main/1.%20Human%20Resources%20Data/Human_Resources_Department.ipynb) to see how data science can transform HR challenges into actionable solutions!  
 
-Okay, let's generate a case study based on the provided notebook.
-
 ## Case Study 2: Customer Segmentation for Enhanced Marketing Strategies
 
 ### **Overview**
