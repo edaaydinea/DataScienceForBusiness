@@ -108,4 +108,4 @@ The modeling approach involves:
 
 The chosen methods (LightGBM, Prophet) are well-suited for time-series forecasting with complex interactions and seasonalities. LightGBM is a gradient boosting framework known for its efficiency and accuracy with large datasets and high-dimensional features. Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects, which is robust to missing data and shifts in the trend and typically handles outliers well.
 
-[Click here to explore the case study]([3. Sales Department Data\SalesDepartment.ipynb](https://github.com/edaaydinea/DataScienceForBusiness/blob/main/3.%20Sales%20Department%20Data/SalesDepartment.ipynb)).
+[Click here to explore the case study](https://github.com/edaaydinea/DataScienceForBusiness/blob/main/3.%20Sales%20Department%20Data/SalesDepartment.ipynb)
